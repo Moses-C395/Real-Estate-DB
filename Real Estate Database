@@ -28,3 +28,8 @@ VALUES
 ('Sale', 'Michael Smith', 3),  
 ('Lease', 'Sunset Rentals LLC', 4),  
 ('Sale', 'Bright Future Investments', 5);
+SELECT * FROM Property;
+SELECT * FROM development_project;
+SELECT * FROM Contractor;
+SELECT * FROM Transaction;
+
